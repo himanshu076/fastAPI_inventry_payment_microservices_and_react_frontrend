@@ -1,0 +1,4 @@
+#1. how to start fastAPI server.
+CMD - uvicorn inventry.main:app --reload
+
+#2. 
